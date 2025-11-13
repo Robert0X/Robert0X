@@ -3,7 +3,7 @@
 ## Computer Systems Engineering | ICPC Mexico Finalist
 
 ## About me
-* 🧑🏻 He/Hir
+* 🧑🏻 He/Him
 * 19 years
 * 🇲🇽 Mexican
 * 👩🏻‍💻 Competitive Programmer
@@ -30,6 +30,7 @@
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/robert0x?tab=repositories&language=html)
 
 ## Programming Languages and Technologies I want to learn
+
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://github.com/robert0x?tab=repositories&language=javascript)
 [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/robert0x?tab=repositories&language=typescript)
 [![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/robert0x?tab=repositories&q=mysql)
@@ -37,6 +38,7 @@
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://github.com/robert0x?tab=repositories&language=php)
 
 ## Environment, IDEs and Tools
+
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -46,9 +48,10 @@
 <div align="center">
   <img alt="Robert's Github Stats" src="https://github-readme-stats.vercel.app/api?username=robert0x&show_icons=true&theme=transparent&hide_border=true&cache_seconds=7200" height="180"/>
   <img alt="Robert's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robert0x&layout=compact&theme=transparent&hide_border=true&cache_seconds=7200" height="180"/>
-<br/>
 </div>
+
 <br/>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=robert0x&style=for-the-badge&color=BB9AF7&label=Profile+Visitors" alt="Visitors Badge"/>
 </p>
