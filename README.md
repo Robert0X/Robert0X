@@ -22,19 +22,19 @@
 
 <a href="https://github.com/robert0x?tab=repositories&language=c%2B%2B"><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
 <a href="https://github.com/robert0x?tab=repositories&language=python"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
-<a href="https://github.com/robert0x?tab=repositories&language=java"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"></a>
-<a href="https://github.com/robert0x?tab=repositories&language=markdown"><img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"></a>
-<a href="https://github.com/robert0x?tab=repositories&q=github"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://github.com/robert0x?tab=repositories&language=c"><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"></a>
-<a href="https://github.com/robert0x?tab=repositories&language=css"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a>
-<a href="https://github.com/robert0x?tab=repositories&language=html"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
+<a href="https.github.com/robert0x?tab=repositories&language=java"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"></a>
+<a href="https.github.com/robert0x?tab=repositories&language=markdown"><img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"></a>
+<a href="https.github.com/robert0x?tab=repositories&q=github"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https.github.com/robert0x?tab=repositories&language=c"><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"></a>
+<a href="https.github.com/robert0x?tab=repositories&language=css"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a>
+<a href="https.github.com/robert0x?tab=repositories&language=html"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
 
 ## Programming Languages and Technologies I want to learn
 <a href="https://github.com/robert0x?tab=repositories&language=javascript"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
 <a href="https://github.com/robert0x?tab=repositories&language=typescript"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"></a>
 <a href="https://github.com/robert0x?tab=repositories&q=mysql"><img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
 <a href="https://github.com/robert0x?tab=repositories&language=c%23"><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"></a>
-<a href="https://github.com/robert0x?tab=repositories&language=php"><img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"></a>
+<a href="https.github.com/robert0x?tab=repositories&language=php"><img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"></a>
 
 ## Environment, IDEs and Tools
 <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
@@ -44,11 +44,17 @@
 ---
 
 <div align="center">
-  <img alt="Robert's Github Stats (Light)" src="https://github-readme-stats.vercel.app/api?username=robert0x&show_icons=true&theme=graywhite&hide_border=true&cache_seconds=3600#gh-light-mode-only" height="180"/>
-  <img alt="Robert's Github Stats (Dark)" src="https://github-readme-stats.vercel.app/api?username=robert0x&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=3600#gh-dark-mode-only" height="180"/>
-  
-  <img alt="Robert's Top Languages (Light)" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robert0x&layout=compact&theme=graywhite&hide_border=true&cache_seconds=3600#gh-light-mode-only" height="180"/>
-  <img alt="Robert's Top Languages (Dark)" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robert0x&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=3600#gh-dark-mode-only" height="180"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=robert0x&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=3600">
+    <source media="(prefers-color-scheme: light)" srcset="https.github-readme-stats.vercel.app/api?username=robert0x&show_icons=true&theme=algolia&hide_border=true&cache_seconds=3600">
+    <img alt="Robert's Github Stats" src="https://github-readme-stats.vercel.app/api?username=robert0x&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=3600" height="180"/>
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https.github-readme-stats.vercel.app/api/top-langs/?username=robert0x&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=3600">
+    <source media="(prefers-color-scheme: light)" srcset="https.github-readme-stats.vercel.app/api/top-langs/?username=robert0x&layout=compact&theme=algolia&hide_border=true&cache_seconds=3600">
+    <img alt="Robert's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robert0x&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=3600" height="180"/>
+  </picture>
 
 <br/>
 <div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="Roberto García" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/jos%C3%A9-roberto-garc%C3%ADa-correa-15b37b360/">José Roberto García Correa</a></div>
@@ -57,6 +63,9 @@
 </div>
 <br/>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=robert0x&style=for-the-badge&color=5865F2&label=Profile+Visitors#gh-light-mode-only" alt="Visitors Badge (Light)"/>
-  <img src="https://komarev.com/ghpvc/?username=robert0x&style=for-the-badge&color=BB9AF7&label=Profile+Visitors#gh-dark-mode-only" alt="Visitors Badge (Dark)"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=robert0x&style=for-the-badge&color=BB9AF7&label=Profile+Visitors">
+    <source media="(prefers-color-scheme: light)" srcset="https.komarev.com/ghpvc/?username=robert0x&style=for-the-badge&color=5865F2&label=Profile+Visitors">
+    <img src="https://komarev.com/ghpvc/?username=robert0x&style=for-the-badge&color=BB9AF7&label=Profile+Visitors" alt="Visitors Badge"/>
+  </picture>
 </p>
