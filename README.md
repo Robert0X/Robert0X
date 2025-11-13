@@ -1,16 +1,58 @@
-## Hi there 👋
+# <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHR4bXZ2MDl3Y3Y0c240bm5yc2Qxb2pnc2V5dW4wYWVoejA0azhrYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" width="100"/> 👋 Hey, it's Roberto
 
-<!--
-**Robert0X/Robert0X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Computer Systems Engineering | ICPC Mexico Finalist
 
-Here are some ideas to get you started:
+## About me
+* 🧑🏻 He/Hir
+* 19 years
+* 🇲🇽 Mexican
+* 👩🏻‍💻 Competitive Programmer
+* 👩🏻‍🏫 Experience teaching programming to different students and teacher training
+* 📱 TechLover
+* 🗣️ English and Spanish
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-roberto-garc%C3%ADa-correa-15b37b360/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:robertcgr.0x@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/robert_xex/)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/948724622508064788)
+
+---
+
+## Programming Languages and Technologies I know
+
+<a href="#"><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
+<a href="#"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
+
+## Programming Languages and Technologies I want to learn
+<a href="#"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
+<a href="#"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"></a>
+
+## Environment, IDEs and Tools
+<a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
+
+---
+
+<div align="center">
+<img alt="Robert's Github Stats" src="https://github-readme-stats.vercel.app/api?username=robert0x&show_icons=true&theme=transparent" height="180"/>
+<img alt="Robert's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robert0x&layout=compact" height="180"/>
+
+<br/>
+<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="Roberto García" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/jos%C3%A9-roberto-garc%C3%ADa-correa-15b37b360/">José Roberto García Correa</a></div>
+<br/>
+
+</div>
+<br/>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=robert0x&style=flat-square&color=D02929" alt="Visitors Badge"/>
+</p>
