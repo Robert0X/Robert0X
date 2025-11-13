@@ -44,8 +44,11 @@
 ---
 
 <div align="center">
-<img alt="Robert's Github Stats" src="https://github-readme-stats.vercel.app/api?username=robert0x&show_icons=true&theme=transparent" height="180"/>
-<img alt="Robert's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robert0x&layout=compact" height="180"/>
+  <img alt="Robert's Github Stats (Light)" src="https://github-readme-stats.vercel.app/api?username=robert0x&show_icons=true&theme=graywhite&hide_border=true&cache_seconds=3600#gh-light-mode-only" height="180"/>
+  <img alt="Robert's Github Stats (Dark)" src="https://github-readme-stats.vercel.app/api?username=robert0x&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=3600#gh-dark-mode-only" height="180"/>
+  
+  <img alt="Robert's Top Languages (Light)" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robert0x&layout=compact&theme=graywhite&hide_border=true&cache_seconds=3600#gh-light-mode-only" height="180"/>
+  <img alt="Robert's Top Languages (Dark)" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robert0x&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=3600#gh-dark-mode-only" height="180"/>
 
 <br/>
 <div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="Roberto García" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/jos%C3%A9-roberto-garc%C3%ADa-correa-15b37b360/">José Roberto García Correa</a></div>
@@ -54,5 +57,6 @@
 </div>
 <br/>
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=robert0x&style=flat-square&color=D02929" alt="Visitors Badge"/>
+  <img src="https://komarev.com/ghpvc/?username=robert0x&style=for-the-badge&color=5865F2&label=Profile+Visitors#gh-light-mode-only" alt="Visitors Badge (Light)"/>
+  <img src="https://komarev.com/ghpvc/?username=robert0x&style=for-the-badge&color=BB9AF7&label=Profile+Visitors#gh-dark-mode-only" alt="Visitors Badge (Dark)"/>
 </p>
