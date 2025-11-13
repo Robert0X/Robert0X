@@ -1,4 +1,4 @@
-# <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHR4bXZ2MDl3Y3Y0c240bm5yc2Qxb2pnc2V5dW4wYWVoejA0azhrYSZlcD12MV9pbnRlcm5hbF_naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" width="100"/> 👋 Hey, it's Roberto
+# <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHR4bXZ2MDl3Y3Y0c240bm5yc2Qxb2pnc2V5dW4wYWVoejA0azhrYSZlcD12MV9pbnRlcm5hbF_naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" width="100"/> 👋 Hey!, it's Roberto
 
 ## Computer Systems Engineering | ICPC Mexico Finalist
 
