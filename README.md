@@ -7,7 +7,7 @@
 * 19 years
 * 🇲🇽 Mexican
 * 👩🏻‍💻 Competitive Programmer
-* 👩🏻‍🏫 Experience teaching programming to different students and teacher training
+* 👩🏻‍🏫 Experience teaching programming to different students.
 * 📱 TechLover
 * 🗣️ English and Spanish
 
