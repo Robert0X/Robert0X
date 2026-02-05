@@ -4,7 +4,7 @@
 
 ## About me
 * 🧑🏻 He/Him
-* 19 years
+* 20 years
 * 🇲🇽 Mexican
 * 👩🏻‍💻 Competitive Programmer
 * 👩🏻‍🏫 Experience teaching programming to different students.
