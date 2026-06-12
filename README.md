@@ -21,11 +21,9 @@ Computer Systems Engineering @ TecNM Morelia · class of 2028 · ICPC Mexico Fin
 
 I'm a 6th semester Computer Systems Engineering student at Instituto Tecnológico de Morelia (TecNM). I qualified for the **ICPC Mexico Finals 2025**, and alongside great friends and classmates I co-founded two competitive programming clubs — **GAPC C120** in high school and the **Capítulo de Algoritmia** at ITM — where I coach students for regional and national contests. I focus on algorithms, data structures, and full-stack software that solves real problems.
 
-**Status:** ● Available — Morelia, MX
-
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### [TGS-ITM](https://github.com/Robert0X/TGS-ITM)
 Sports activities management system for Club Social y Deportivo Morelia, built as a software engineering project at TecNM. Typed end-to-end, with sprint-driven development and enforced commit conventions. I serve as **Scrum Master** of the team — 5 sprints delivered.
@@ -132,6 +130,5 @@ Co-founded my high school's competitive programming club with close friends and 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-roberto-garc%C3%ADa-correa-15b37b360/)
 [![Portfolio](https://img.shields.io/badge/robert0x.github.io-8957e5?style=for-the-badge&logo=githubpages&logoColor=white)](https://robert0x.github.io/portfolio/)
 
-*Building software and the programmers who'll compete with me.*
 
 </div>
