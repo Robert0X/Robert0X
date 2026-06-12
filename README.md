@@ -2,12 +2,14 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12,17,24&section=header&reversal=false" width="100%"/>
 
-# Roberto García
+# José Roberto García Correa
 
-**Computer Systems Engineering student @ TecNM Morelia | Competitive Programmer — ICPC Mexico Finalist**
+**I build full-stack systems with the rigor of a competitive programmer — and train the next generation of them.**
 
-[![Location](https://img.shields.io/badge/Michoac%C3%A1n,%20MX-4f46e5?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
-[![Portfolio](https://img.shields.io/badge/Portfolio-8957e5?style=for-the-badge&logo=githubpages&logoColor=white)](https://robert0x.github.io/portfolio)
+Computer Systems Engineering @ TecNM Morelia · class of 2028 · ICPC Mexico Finals 2025
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-8957e5?style=for-the-badge&logo=githubpages&logoColor=white)](https://robert0x.github.io/portfolio/)
+[![CV](https://img.shields.io/badge/CV-4f46e5?style=for-the-badge&logo=readdotcv&logoColor=white)](https://robert0x.github.io/portfolio/assets/CV_RobertGarcia.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-roberto-garc%C3%ADa-correa-15b37b360/)
 [![Email](https://img.shields.io/badge/Email-6f42c1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:robertcgr.0x@gmail.com)
 
@@ -17,65 +19,77 @@
 
 ## About me
 
-I build real academic software as Scrum Master of **TGSI-ITM** and train competitive programmers as founder and coach of the **Capítulo de Algoritmia ITM**, where I also create problems for OmegaUp and the OMICH state olympiad. Currently training for the **GPMX 2026** circuit.
+I'm a 6th semester Computer Systems Engineering student at Instituto Tecnológico de Morelia (TecNM). I qualified for the **ICPC Mexico Finals 2025**, and alongside great friends and classmates I co-founded two competitive programming clubs — **GAPC C120** in high school and the **Capítulo de Algoritmia** at ITM — where I coach students for regional and national contests. I focus on algorithms, data structures, and full-stack software that solves real problems.
 
-**Open to:** <!-- TODO: define a qué estás abierto (prácticas, colaboración open source, etc.) -->
+**Status:** ● Available — Morelia, MX
 
 ---
 
 ## 🚀 Featured Projects
 
-### [TGSI-ITM](#) <!-- TODO: link al repo si es público -->
-Institutional academic management system for my university. I serve as **Scrum Master** of the dev team — 5 sprints delivered with full documentation (ERS, BPMN diagrams, data schema).
+### [TGS-ITM](https://github.com/Robert0X/TGS-ITM)
+Sports activities management system for Club Social y Deportivo Morelia, built as a software engineering project at TecNM. Typed end-to-end, with sprint-driven development and enforced commit conventions. I serve as **Scrum Master** of the team — 5 sprints delivered.
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=prisma&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![pnpm](https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL%20·%20Neon-316192?style=flat-square&logo=postgresql&logoColor=white)
+![NextAuth](https://img.shields.io/badge/NextAuth%20v5-6f42c1?style=flat-square&logo=auth0&logoColor=white)
 
-### [OmegaUp Problem Packages](#) <!-- TODO: link a tu perfil de OmegaUp -->
-I create and validate competitive programming problems — statements, test plans and validators — used in **OMICH 2026** and the **Coding Cup Michoacán**, following my own problemsetting methodology guide.
+### [NoteBook CP](https://github.com/Robert0X/NoteBook-CP)
+ICPC team notebook generator: drop algorithms in as `.cpp` files, run one command, and get a print-ready PDF with table of contents and syntax highlighting. Built to prepare my own team's notebook for ICPC.
 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
+![CLI](https://img.shields.io/badge/CLI-302E31?style=flat-square&logo=gnubash&logoColor=white)
 
-### [Capítulo de Algoritmia ITM](#) <!-- TODO: link al canal de YouTube o página del capítulo -->
-Founded and coach the competitive programming chapter at my university: weekly classes streamed on YouTube, training plans, and contest organization (**Winter Coding Cup 2025**, **Hack-O-Ween 2025**).
+### [StudyVault](https://github.com/Robert0X/studyvault)
+Study platform that organizes subjects, resources and flashcards, with a dedicated competitive programming training module. Hand-rolled MVC architecture in object-oriented PHP — no framework — with PDO prepared statements and session-based auth.
 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![OBS](https://img.shields.io/badge/OBS%20Studio-302E31?style=flat-square&logo=obsstudio&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP%20(OOP)-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MVC](https://img.shields.io/badge/MVC-no%20framework-555?style=flat-square)
 
 <details>
 <summary><b>More projects</b></summary>
 <br>
 
-**StudyVault** — Study material management web app built from scratch with MVC architecture. `PHP` `MySQL` <!-- TODO: link al repo si es público -->
+**CuentaClara** *(in development — private repo)* — Unified personal finance and shared expense platform: track individual spending, split bills with groups, and visualize financial health.
+
+**OmegaUp problem packages** — I create and validate competitive programming problems (statements, test plans, validators) used in **OMICH 2026** and the **Coding Cup Michoacán** → [omegaup.com/profile/Robert.x](https://omegaup.com/profile/Robert.x)
 
 </details>
 
 ---
 
-## 💼 Experience
-
-**Scrum Master — TGSI-ITM** · <!-- TODO: fechas -->
-Lead the Scrum process of an academic software team: sprint planning, backlog management and delivery across 5 sprints, plus requirements documentation (ERS) and process modeling (BPMN).
-
-**Founder & Coach — Capítulo de Algoritmia ITM** · <!-- TODO: fechas -->
-Created the chapter from zero; teach algorithms and competitive programming classes (streamed on YouTube), run Java workshops, and organize official contests.
-
----
-
-## 🏆 Achievements
-
-<div align="center">
+## ⚔️ Competitive Programming
 
 | Recognition | Context |
 |---|---|
-| ICPC Mexico Finals | Qualified as competitor |
-| Contest organizer | Winter Coding Cup 2025 · Hack-O-Ween 2025 |
-| Problemsetter | OmegaUp · OMICH state olympiad |
+| 🥇 **ICPC Mexico Finals 2025** | Qualified — representing TecNM at the national finals |
+| 🥉 **Coding Cup 2022 — 3rd place** | Podium against high school & university divisions |
+| 🎪 **Winter Coding Cup 2025** | Organizer — problem curation, registration & logistics |
+| 🧩 **Problemsetter** | OmegaUp · OMICH state olympiad |
 
-</div>
+[![Codeforces](https://img.shields.io/badge/Codeforces-Robert.x-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Robert.x)
+[![OmegaUp](https://img.shields.io/badge/OmegaUp-Robert.x-FFC107?style=for-the-badge&logoColor=white)](https://omegaup.com/profile/Robert.x)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Robert0X-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Robert0X)
+
+---
+
+## 💼 Experience
+
+**Competitive Programming Instructor** · *Current*
+Teaching competitive programming classes to high school students — Two Pointers, Queue/Deque, and fundamental data structures — preparing them for regional and national competitions.
+
+**OMICH Coach** · *Olimpiada Michoacana de Informática*
+Coach for the regional informatics olympiad, mentoring students in algorithmic problem-solving and contest strategy.
+
+**Co-founder & Coach — Capítulo de Algoritmia ITM** · *TecNM Morelia*
+Co-founded the competitive programming chapter at my university together with great friends and classmates: weekly classes streamed on YouTube, training plans, and contest organization (Winter Coding Cup 2025, Hack-O-Ween 2025).
+
+**Co-founder & Coach — GAPC C120** · *CETIs 120 · Mar 2022 – Dec 2023*
+Co-founded my high school's competitive programming club with close friends and classmates. Designed and taught courses from fundamentals to advanced topics: algorithms, data structures, optimization, and computational complexity.
 
 ---
 
@@ -87,7 +101,7 @@ Created the chapter from zero; teach algorithms and competitive programming clas
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=nextjs" height="36"/>
+<img src="https://skillicons.dev/icons?i=nextjs,react" height="36"/>
 
 **Backend & Databases**
 
@@ -103,8 +117,8 @@ Created the chapter from zero; teach algorithms and competitive programming clas
 
 <div align="center">
 
-<img alt="Roberto's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=robert0x&show_icons=true&theme=midnight-purple&hide_border=true&cache_seconds=7200" height="170"/>
-<img alt="Roberto's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robert0x&layout=compact&theme=midnight-purple&hide_border=true&cache_seconds=7200" height="170"/>
+<img alt="Roberto's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Robert0X&show_icons=true&theme=midnight-purple&hide_border=true&cache_seconds=7200" height="170"/>
+<img alt="Roberto's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robert0X&layout=compact&theme=midnight-purple&hide_border=true&cache_seconds=7200" height="170"/>
 
 </div>
 
@@ -116,8 +130,8 @@ Created the chapter from zero; teach algorithms and competitive programming clas
 
 [![Email](https://img.shields.io/badge/Email-6f42c1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:robertcgr.0x@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-roberto-garc%C3%ADa-correa-15b37b360/)
-[![Portfolio](https://img.shields.io/badge/robert0x.github.io-8957e5?style=for-the-badge&logo=githubpages&logoColor=white)](https://robert0x.github.io/portfolio)
+[![Portfolio](https://img.shields.io/badge/robert0x.github.io-8957e5?style=for-the-badge&logo=githubpages&logoColor=white)](https://robert0x.github.io/portfolio/)
 
-Building software and the programmers who'll compete with me.
+*Building software and the programmers who'll compete with me.*
 
 </div>
