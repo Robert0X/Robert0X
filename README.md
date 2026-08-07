@@ -19,7 +19,7 @@ Computer Systems Engineering @ TecNM Morelia · class of 2028 · ICPC Mexico Fin
 
 ## About me
 
-I'm a 6th semester Computer Systems Engineering student at Instituto Tecnológico de Morelia (TecNM). I qualified for the **ICPC Mexico Finals 2025**, and alongside great friends and classmates I co-founded two competitive programming clubs — **GAPC C120** in high school and the **Capítulo de Algoritmia** at ITM — where I coach students for regional and national contests. I focus on algorithms, data structures, and full-stack software that solves real problems.
+I'm a 7th semester Computer Systems Engineering student at Instituto Tecnológico de Morelia (TecNM). I qualified for the **ICPC Mexico Finals 2025**, and alongside great friends and classmates I co-founded two competitive programming clubs — **GAPC C120** in high school and the **Capítulo de Algoritmia** at ITM — where I coach students for regional and national contests. I focus on algorithms, data structures, and full-stack software that solves real problems.
 
 ---
 
