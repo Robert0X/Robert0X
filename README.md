@@ -10,8 +10,8 @@ Computer Systems Engineering @ TecNM Morelia · class of 2028 · ICPC Mexico Fin
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-8957e5?style=for-the-badge&logo=githubpages&logoColor=white)](https://robert0x.github.io/portfolio/)
 [![CV](https://img.shields.io/badge/CV-4f46e5?style=for-the-badge&logo=readdotcv&logoColor=white)](https://robert0x.github.io/portfolio/assets/CV_RobertGarcia.pdf)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-roberto-garc%C3%ADa-correa-15b37b360/)
-[![Email](https://img.shields.io/badge/Email-6f42c1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:robertcgr.0x@gmail.com)
+[![LinkedIn][linkedin-badge]](https://www.linkedin.com/in/jos%C3%A9-roberto-garc%C3%ADa-correa-15b37b360/)
+[![Email](https://img.shields.io/badge/Email-6f42c1?style=for-the-badge&logo=gmail&logoColor=white)][email]
 
 </div>
 
@@ -126,9 +126,15 @@ Co-founded my high school's competitive programming club with close friends and 
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-6f42c1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:robertcgr.0x@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-roberto-garc%C3%ADa-correa-15b37b360/)
+[![Email](https://img.shields.io/badge/Email-6f42c1?style=for-the-badge&logo=gmail&logoColor=white)][email]
+[![LinkedIn][linkedin-badge]](https://www.linkedin.com/in/jos%C3%A9-roberto-garc%C3%ADa-correa-15b37b360/)
 [![Portfolio](https://img.shields.io/badge/robert0x.github.io-8957e5?style=for-the-badge&logo=githubpages&logoColor=white)](https://robert0x.github.io/portfolio/)
 
+📧 robertcgr.0x@gmail.com
 
 </div>
+
+<!-- Email opens Gmail web compose: a mailto: link does nothing for visitors without a configured mail app.
+     LinkedIn logo is embedded as a data URI: simple-icons dropped it in v14, so shields.io's logo=linkedin renders blank. -->
+[email]: https://mail.google.com/mail/?view=cm&fs=1&to=robertcgr.0x@gmail.com
+[linkedin-badge]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgdmlld0JveD0iMCAwIDI0IDI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D
