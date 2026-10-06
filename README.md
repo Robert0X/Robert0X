@@ -8,7 +8,7 @@
 
 Computer Systems Engineering @ TecNM Morelia · class of 2028 · ICPC Mexico Finals 2025
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-8957e5?style=for-the-badge&logo=githubpages&logoColor=white)](https://robert0x.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-8957e5?style=for-the-badge&logo=github&logoColor=white)](https://robert0x.github.io/portfolio/)
 [![CV](https://img.shields.io/badge/CV-4f46e5?style=for-the-badge&logo=readdotcv&logoColor=white)](https://robert0x.github.io/portfolio/assets/CV_RobertGarcia.pdf)
 [![LinkedIn][linkedin-badge]](https://www.linkedin.com/in/jos%C3%A9-roberto-garc%C3%ADa-correa-15b37b360/)
 [![Email](https://img.shields.io/badge/Email-6f42c1?style=for-the-badge&logo=gmail&logoColor=white)][email]
@@ -128,7 +128,7 @@ Co-founded my high school's competitive programming club with close friends and 
 
 [![Email](https://img.shields.io/badge/Email-6f42c1?style=for-the-badge&logo=gmail&logoColor=white)][email]
 [![LinkedIn][linkedin-badge]](https://www.linkedin.com/in/jos%C3%A9-roberto-garc%C3%ADa-correa-15b37b360/)
-[![Portfolio](https://img.shields.io/badge/robert0x.github.io-8957e5?style=for-the-badge&logo=githubpages&logoColor=white)](https://robert0x.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/robert0x.github.io-8957e5?style=for-the-badge&logo=github&logoColor=white)](https://robert0x.github.io/portfolio/)
 
 📧 robertcgr.0x@gmail.com
 
